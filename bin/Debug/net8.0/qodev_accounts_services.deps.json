@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "qodev_accounts_services/1.0.0": {
+        "runtime": {
+          "qodev_accounts_services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "qodev_accounts_services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
