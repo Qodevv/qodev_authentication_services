@@ -46,19 +46,6 @@
           }
         }
       },
-      "BCrypt.Net-Core/1.6.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/BCrypt.Net-Core.dll": {
-            "related": ".pdb"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/BCrypt.Net-Core.dll": {
-            "related": ".pdb"
-          }
-        }
-      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -1660,19 +1647,6 @@
             "rid": "win"
           }
         }
-      },
-      "qodev_accounts_services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/qodev_accounts_services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/qodev_accounts_services.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -1713,29 +1687,6 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
-      ]
-    },
-    "BCrypt.Net-Core/1.6.0": {
-      "sha512": "hsKiHGjrnlDW05MzuzzlD9gNP8YOW2KbZ+FbvISrilsKJJ76tXKhWey6psZX5sd7DczNpSU2U6ldjPoblk8BLw==",
-      "type": "package",
-      "path": "bcrypt.net-core/1.6.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "bcrypt.net-core.1.6.0.nupkg.sha512",
-        "bcrypt.net-core.nuspec",
-        "lib/net40/BCrypt.Net-Core.dll",
-        "lib/net40/BCrypt.Net-Core.pdb",
-        "lib/net45/BCrypt.Net-Core.dll",
-        "lib/net45/BCrypt.Net-Core.pdb",
-        "lib/net451/BCrypt.Net-Core.dll",
-        "lib/net451/BCrypt.Net-Core.pdb",
-        "lib/net452/BCrypt.Net-Core.dll",
-        "lib/net452/BCrypt.Net-Core.pdb",
-        "lib/netstandard1.3/BCrypt.Net-Core.dll",
-        "lib/netstandard1.3/BCrypt.Net-Core.pdb",
-        "lib/netstandard2.0/BCrypt.Net-Core.dll",
-        "lib/netstandard2.0/BCrypt.Net-Core.pdb"
       ]
     },
     "Humanizer.Core/2.14.1": {
@@ -4464,53 +4415,44 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "qodev_accounts_services/1.0.0": {
-      "type": "project",
-      "path": "../qodev_accounts_services/qodev_accounts_services.csproj",
-      "msbuildProject": "../qodev_accounts_services/qodev_accounts_services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BCrypt.Net-Core >= 1.6.0",
       "IntelliTect.Coalesce.Swashbuckle >= 3.1.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.1",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.1",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.1",
-      "qodev_accounts_services >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\devop\\.nuget\\packages\\": {}
+    "C:\\Users\\JM Sevilla\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_authentication_services\\qodev_authentication_services.csproj",
+      "projectUniqueName": "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj",
       "projectName": "qodev_authentication_services",
-      "projectPath": "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_authentication_services\\qodev_authentication_services.csproj",
-      "packagesPath": "C:\\Users\\devop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_authentication_services\\obj\\",
+      "projectPath": "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj",
+      "packagesPath": "C:\\Users\\JM Sevilla\\.nuget\\packages\\",
+      "outputPath": "D:\\qodev_backend\\qodev_authentication_services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\devop\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\JM Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_accounts_services\\qodev_accounts_services.csproj": {
-              "projectPath": "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_accounts_services\\qodev_accounts_services.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -4523,10 +4465,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "BCrypt.Net-Core": {
-            "target": "Package",
-            "version": "[1.6.0, )"
-          },
           "IntelliTect.Coalesce.Swashbuckle": {
             "target": "Package",
             "version": "[3.1.1, )"
@@ -4569,7 +4507,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

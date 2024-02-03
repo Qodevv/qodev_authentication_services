@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("qodev_authentication_services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49afc8105dd68a0b71e102f8aca059a665711dcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("qodev_authentication_services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qodev_authentication_services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
