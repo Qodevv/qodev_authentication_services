@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "UzzaqK5fpKqzH9yytCXJY4kLIXQ/qKLErfcRBUYfjTc=",
+  "Hash": "DC6+pp8ri3RdXice/Zh45roMdAfaItBhAll/TXsccvc=",
   "Source": "qodev_authentication_services",
   "BasePath": "_content/qodev_authentication_services",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Users\\devop\\RiderProjects\\qodev_api_gateway\\qodev_accounts_services\\qodev_accounts_services.csproj",
-      "Version": 2,
-      "Source": "qodev_accounts_services",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": []
 }
