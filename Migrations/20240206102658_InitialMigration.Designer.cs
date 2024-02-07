@@ -12,7 +12,7 @@ using qodev_authentication_services.db;
 namespace qodev_authentication_services.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20240125093806_InitialMigration")]
+    [Migration("20240206102658_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />

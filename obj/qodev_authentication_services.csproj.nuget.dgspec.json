@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj": {}
+    "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {}
   },
   "projects": {
-    "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj": {
+    "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj",
+        "projectUniqueName": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
         "projectName": "qodev_authentication_services",
-        "projectPath": "D:\\qodev_backend\\qodev_authentication_services\\qodev_authentication_services.csproj",
-        "packagesPath": "C:\\Users\\JM Sevilla\\.nuget\\packages\\",
-        "outputPath": "D:\\qodev_backend\\qodev_authentication_services\\obj\\",
+        "projectPath": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
+        "packagesPath": "C:\\Users\\jm4583104\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\JM Sevilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jm4583104\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
