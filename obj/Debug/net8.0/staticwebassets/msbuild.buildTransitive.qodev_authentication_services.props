@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\qodev_authentication_services.props" />
-</Project>
