@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {}
+    "c:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {
+    "c:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
+        "projectUniqueName": "c:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
         "projectName": "qodev_authentication_services",
-        "projectPath": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
+        "projectPath": "c:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\qodev_authentication_services.csproj",
         "packagesPath": "C:\\Users\\jm4583104\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\obj\\",
+        "outputPath": "c:\\Users\\jm4583104\\RiderProjects\\QDVMicroservices\\qodev_authentication_services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jm4583104\\AppData\\Roaming\\NuGet\\NuGet.Config"
